@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6abd318-b94e-4722-b61a-5318f71a4e25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/components/main-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/main-header/main-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-header-background.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-header/main-header-background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-header-background.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-header/main-header-background.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-header/main-header.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/PC10/frontend/REACT_LEARNING/nextjs/nextlevel-food",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/main-header" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -58,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726207438104</updated>
-      <workItem from="1726207439331" duration="7046000" />
+      <workItem from="1726207439331" duration="7851000" />
     </task>
     <servers />
   </component>
