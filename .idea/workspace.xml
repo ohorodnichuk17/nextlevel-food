@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6abd318-b94e-4722-b61a-5318f71a4e25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/meals/[mealSlug]/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/meals/[mealSlug]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/meals/[mealSlug]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/meals.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/meals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,7 +65,7 @@
       <updated>1726207438104</updated>
       <workItem from="1726207439331" duration="12735000" />
       <workItem from="1726473360227" duration="1250000" />
-      <workItem from="1726560552967" duration="3533000" />
+      <workItem from="1726560552967" duration="4327000" />
     </task>
     <servers />
   </component>
