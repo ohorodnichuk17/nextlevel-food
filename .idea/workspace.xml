@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6abd318-b94e-4722-b61a-5318f71a4e25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/meals/image-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/meals/image-picker.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/meals/share/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/meals/share/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/meals/image-picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/meals/image-picker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <workItem from="1726473360227" duration="1250000" />
       <workItem from="1726560552967" duration="6008000" />
       <workItem from="1726602767917" duration="610000" />
-      <workItem from="1726640309889" duration="2132000" />
+      <workItem from="1726640309889" duration="2867000" />
     </task>
     <servers />
   </component>
