@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6abd318-b94e-4722-b61a-5318f71a4e25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/meals/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/meals/page.js" afterDir="false" />
-    </list>
+    <list default="true" id="e6abd318-b94e-4722-b61a-5318f71a4e25" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <workItem from="1726473360227" duration="1250000" />
       <workItem from="1726560552967" duration="6008000" />
       <workItem from="1726602767917" duration="610000" />
-      <workItem from="1726640309889" duration="12797000" />
+      <workItem from="1726640309889" duration="13117000" />
     </task>
     <servers />
   </component>
